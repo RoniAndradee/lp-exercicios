@@ -5,9 +5,6 @@ public class ProjetoExercicios {
         Scanner leitor = new Scanner(System.in);
         ExercicioMetodos metodos = new ExercicioMetodos();
 
-
-        Integer valor = 6;
-
-        System.out.println(metodos.calcularFatorial(valor));
+        System.out.println(metodos.verificarPalindromo(""));
     }
 }
