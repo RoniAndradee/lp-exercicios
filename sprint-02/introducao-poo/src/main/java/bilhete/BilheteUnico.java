@@ -1,3 +1,5 @@
+package bilhete;
+
 public class BilheteUnico {
 //    Atributos = caracteristicas do objeto
     String nomeTitular;

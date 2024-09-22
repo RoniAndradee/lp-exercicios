@@ -1,4 +1,6 @@
-public class Teste {
+package bilhete;
+
+public class TesteCofrinho {
     public static void main(String[] args) {
         // Instanciar um objeto = criar um objeto
         BilheteUnico bilhete01 = new BilheteUnico();
